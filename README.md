@@ -1,10 +1,10 @@
-#CJDB ITE2021
+# CJDB ITE2021
 Proyecto de Finalizacion de Curso ITE Feb.2021.
 En este abordaremos el tema de **"Servidor VoIP"** o tambien conocido como
 **Central Telefonica**; Terminologia, usos, instalacion e implementacion
 en **LAN**.
 
-##Que es VoIP?
+## Que es VoIP?
 Es un conjunto de recursos que hacen posible que la señal
 de voz viaje a travès de internet empleando el protocolo **IP** (Protocolo de Internet).
 
@@ -13,14 +13,14 @@ de voz viaje a travès de internet empleando el protocolo **IP** (Protocolo de I
 Softphone        Servidor        Tel IP
             <--             <--
 ```
-##Equipo para su implementacion
+## Equipo para su implementacion
 * Telefonia con Software (Softphone)
 * Adaptador para tajeta telefonico
 * Servidor VoIP
 * VoIP Switch
 * Terminales VoIP
 
-##Requisitos de Servidor
+## Requisitos de Servidor
 | Proposito | Numero de canales | Minimo Recomendado |
 | ---------- | ---------- | ----------|
 | Hobby | No mas de 5 | 400MHz x86, 256 MB RAM |
